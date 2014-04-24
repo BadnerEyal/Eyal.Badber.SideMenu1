@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">פרויקט פתקים</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="button_add">הוסף שורה</string>
+	<string name="save">שמור</string>
+	<string name="cancel">בטל</string>
+	<string name="subject">נושא</string>
+	<string name="body">פרטים</string>
+	<string name="name_app">אפליקציית פתקים</string>
+	<string name="settings">הגדרות</string>
+	<string name="help">עזרה</string>
+	<string name="change_lang">שנה שפה</string>
+	<string name="delete">מחק</string>
+	<string name="email">אימייל</string>
+	<string name="no_notes">אין לך פתקים, 
+	    \n
+	    אנא לחץ על לחצן הפלוס על מנת להוסיף פתק חדש</string>
+	<string name="choose_img">בחר תמונה: </string>
+</resources>
